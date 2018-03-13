@@ -1,0 +1,22 @@
+{
+  "name": "twitter-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LongSh4nks/Twitter-CLI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LongSh4nks/Twitter-CLI/issues"
+  },
+  "homepage": "https://github.com/LongSh4nks/Twitter-CLI#readme",
+  "dependencies": {
+    "twit": "^2.2.9"
+  }
+}
